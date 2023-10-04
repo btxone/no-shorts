@@ -3,3 +3,6 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     chrome.tabs.remove(tabId);
   }
 });
+
+
+// A.C.M.UN.PT

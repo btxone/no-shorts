@@ -32,4 +32,4 @@ Si deseas contribuir a este proyecto o informar sobre problemas, puedes abrir un
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está bajo la Licencia MIT.
